@@ -1,3 +1,4 @@
+package Learning;
 public class JavaWhile {
     public static void main(String[] args){
         int i=0;
