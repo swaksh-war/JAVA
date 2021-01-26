@@ -1,4 +1,3 @@
-package Learning;
 public class JavaArray {
     public static void main(String[] args) {
         String[] names={"ashu","anky","silver","dingo"};

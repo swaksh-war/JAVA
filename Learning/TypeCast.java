@@ -1,4 +1,3 @@
-package Learning;
 public class TypeCast {
     public static void main(String[] args){
         double myDouble=764764;

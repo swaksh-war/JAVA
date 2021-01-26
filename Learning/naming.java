@@ -1,4 +1,3 @@
-package Learning;
 public class naming {
     public static void main(String[] args){
         

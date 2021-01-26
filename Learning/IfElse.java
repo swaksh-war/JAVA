@@ -1,4 +1,3 @@
-package Learning;
 public class IfElse {
     public static void main(String[] args){
         if(20>14){

@@ -1,4 +1,3 @@
-package Learning;
 public class AssignmentOperator {
     public static void main(String[] args){
         System.out.println(10+5);

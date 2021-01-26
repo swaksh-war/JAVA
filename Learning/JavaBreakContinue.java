@@ -1,4 +1,3 @@
-package Learning;
 public class JavaBreakContinue {
     public static void main(String[] args){
         for(int i=0;i<=5;i++){
