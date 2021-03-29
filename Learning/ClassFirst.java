@@ -1,11 +1,15 @@
-public class ClassFirst {
-    public class TestFirstApp{
-        public void dolt(int[] n){
-            n[i]=111;
-            return;
+public  class ClassFirst {
+    static class student{
+        int id;
+        String name;
+        student(int i,String n){
+            id = i;
+            name = n;
         }
+        void print(){System.out.println(id+" "+name);}
     }
     public static void main(String[] args) {
-        int[] myarr={3,6,2}
+        student s1 = new student(123,"abc");
+        s1.print();
     }
 }
